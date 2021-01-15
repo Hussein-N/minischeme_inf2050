@@ -1,18 +1,14 @@
-# Remise finale du travail pratique
-​
-## Identification:
-​
-- **Cours**      : Outils et pratiques de développement logiciel
-- **Sigle**      : INF2050
-- **Session**    : Hiver 2020
-- **Groupe**     : `30`
-- **Enseignant** : `François-Xavier Guillemette`
-- **Auteur**     : `Mehran Nazemi` ( `NAZM30088507` )
-- **Auteur**     : `Hussein Nahle` ( `NAHH85090004` )
-- **Auteur**     : `Giovanny Andrés Pardo Hoyos` ( `PARG03028209` )
-​
 # Projet Minischeme [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-​
+
+Ce programme est développé dans le cadre du cours, INF2050 de l'UQAM.
+
+
+## Auteur 
+
+Hussein Nahle
+Mehran Nazemi
+Giovanny Andrés Pardo Hoyos
+
 ## Prérequis
 -  [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 -  [Maven 3.6.0](https://maven.apache.org/docs/3.6.0/release-notes.html)
