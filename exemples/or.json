@@ -1,0 +1,6 @@
+(begin
+
+  (define p #t)
+  (define q #f)
+
+  (not (and (not p) (not q))))
