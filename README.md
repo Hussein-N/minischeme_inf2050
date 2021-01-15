@@ -7,7 +7,7 @@ Ce programme est développé dans le cadre du cours, INF2050 de l'UQAM.
 
 Hussein Nahle\
 Mehran Nazemi\
-Giovanny Andrés Pardo Hoyos\
+Giovanny Andrés Pardo Hoyos
 
 ## Prérequis
 -  [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
