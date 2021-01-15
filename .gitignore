@@ -1,0 +1,13 @@
+# Fichiers et repertoires ignorés par default
+*.swp
+.idea
+.classpath
+dependency-reduced-pom.xml
+.project
+.settings
+target
+*.prof
+*.save
+.mvn
+.log
+*.iml
