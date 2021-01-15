@@ -5,7 +5,7 @@ Ce programme est développé dans le cadre du cours, INF2050 de l'UQAM.
 
 ## Auteur 
 
-Hussein Nahle\
+Hussein Nahlé\
 Mehran Nazemi\
 Giovanny Andrés Pardo Hoyos
 
